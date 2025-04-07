@@ -1,0 +1,36 @@
+body{
+    background-image: url(https://images.pexels.com/photos/31416900/pexels-photo-31416900/free-photo-of-snowy-mt-yotei-under-dramatic-clouds.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load);
+    background-repeat: no-repeat;
+    background-size: 100vw auto;
+    background-position: center;
+    color: white;
+}
+h1{
+    color: blue;
+    font-size: 40px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p{
+    font-family: sans-serif;
+    font-size: 20px;
+    background-color: rgba(0, 0, 0, 0.384);
+    border-radius: 10px;
+    padding: 10px;
+}
+img{
+    background-color: white;
+    margin-left: 10vw;
+    height: 300px;
+    object-fit: contain;
+    border-radius: 30px;
+}
+button{
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    background-color: indigo;
+    border: none;
+    border-radius: 15px;
+    margin-left: 45vw;
+    padding: 20px 40px;
+}
